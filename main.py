@@ -1,0 +1,3 @@
+import ciklusok
+
+ciklusok.verseny()
