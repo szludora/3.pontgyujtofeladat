@@ -6,3 +6,10 @@ def verseny():
         if okt[i - 1] - 3 >= okt[i]:
             print(f"Október {i+1}-án napon csökkent")
         i += 1
+
+
+def valtoztatas():
+    pass
+
+
+"""Írok ide valamit"""
